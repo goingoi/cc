@@ -1,0 +1,36 @@
+﻿已經開始建置於 2017/9/20 上午 08:54:02。
+     1>節點 2 (Build 目標) 上的專案 "C:\c++\hw1 0906\10\10\10.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (0906-10.vcxproj, 10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 10.c
+         10.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++\hw1 0906\10\Debug\0830.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\c++\hw1 0906\10\Debug\0830.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\c++\hw1 0906\10\Debug\0830.lib" /MACHINE:X86 Debug\10.obj
+         Debug\ex1.obj
+         Debug\ex10.obj
+         Debug\ex11.obj
+         Debug\ex2.obj
+         Debug\ex3.obj
+         Debug\ex4.obj
+         Debug\ex5.obj
+         Debug\ex6.obj
+         Debug\ex7.obj
+         Debug\ex8.obj
+         Debug\ex9.obj
+         Debug\hw1.obj
+         Debug\hw2.obj
+         Debug\hw3.obj
+         Debug\hw4.obj
+         Debug\hw5.obj
+         "Debug\hw6-1.obj"
+         "Debug\hw6-2.obj"
+         "Debug\hw6-3.obj"
+         "Debug\hw6-4.obj"
+         "Debug\hw6-5.obj"
+         "Debug\hw6-6.obj"
+         10.vcxproj -> C:\c++\hw1 0906\10\Debug\0830.exe
+     1>專案 "C:\c++\hw1 0906\10\10\10.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.28
